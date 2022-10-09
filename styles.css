@@ -1,0 +1,11 @@
+
+
+.carousel-inner{
+
+    filter: brightness(50%);
+}
+
+.end-10{
+
+    right: 10%;
+}
